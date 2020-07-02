@@ -1,2 +1,3 @@
 # PinterestClone
-primer commit
+Clon Pinterest
+
