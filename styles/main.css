@@ -102,6 +102,7 @@ button:focus {
   background-image: url("/img/icon_arrow_down.png");
 }
 
+
 /* Existen varias formas de centrar una imagen en un enlace. 
 En este caso, simplemente encierro la imagen dentro de un div */
 .icon-profile > div > img {
